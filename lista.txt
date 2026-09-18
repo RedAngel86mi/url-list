@@ -1,4 +1,9 @@
-https://streamingunity.win
+replace(
+  replace(
+    replace(
+      replace(
+        replace(
+          https://streamingunity.win
 https://cb01uno.cyou
 https://eurostreamings.courses
 https://eurostreaming.design
@@ -8,7 +13,22 @@ https://www.animeworld.ac
 https://www.animeunity.so
 https://www.animesaturn.net
 https://streamingcommunityz.academy
-https://
+https://1337x.to
 https://rargb.to
 https://icv-api.vercel.app
-https://i5hs.k9vo.com
+https://i5hs.k9vo.com;
+          "[https://1337x.to](https://1337x.to)";
+          ""
+        );
+        "[https://rargb.to](https://rargb.to)";
+        ""
+      );
+      "[https://www.animeworld.ac](https://www.animeworld.ac)";
+      ""
+    );
+    "[https://www.animeunity.so](https://www.animeunity.so)";
+    ""
+  );
+  "[https://www.animesaturn.net](https://www.animesaturn.net)";
+  ""
+)
